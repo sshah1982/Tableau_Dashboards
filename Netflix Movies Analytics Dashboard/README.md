@@ -2,7 +2,7 @@
 
 => This dashboard contains historical data of Netflix movies and show various visualizations on them. The data has ben cleaned using Tableau Prep Builder tool and then used in analysis using Tableau Desktop.
 
-=> Dataset has 30000 rows.
+=> Dataset has 6236 rows.
 
 => First visualization (Horizontal Bar Chart)  shows Movies count by Countries (Top N Countries). It renders top 20 movie producing countries. Using filters user can change the value.
 

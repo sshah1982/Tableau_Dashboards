@@ -6,7 +6,7 @@
 
 Artifacts: 
 
-(1) raw_data : This folder contains Excel file for Credit Card Transactions
+(1) raw_data : This folder contains Excel file for Credit Card Transactions (Actual dataset is huge but because of limited support for large files on GitHub, I've committed only 1000 sample rows)
 
 (2) flows: Contains data cleaning steps using Tableau Prep Builder
 

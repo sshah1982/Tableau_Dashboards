@@ -6,7 +6,7 @@
 
 Artifacts: 
 
-(1) raw_data : This folder contains Excel file for Credit Card Transactions
+(1) raw_data : This folder contains Excel file for Credit Card Transactions (Actual dataset is huge - over 100 MB but because of limited support for large files on GitHub, I've committed only 1000 sample rows)
 
 (2) flows: Contains data cleaning steps using Tableau Prep Builder
 
@@ -16,6 +16,6 @@ Artifacts:
 
 (5) dashboard: Contains actual dashboard using Tableau Desktop tool
 
-(6) Assets: Contains static images used in the powerpoint presentation
+(6) assets: Contains static images used in the powerpoint presentation
 
 (7) presentation: Contains Powerpoint file giving details of the dashboard.
